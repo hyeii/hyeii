@@ -1,51 +1,32 @@
-<!--
-**hyeii/hyeii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 
-  
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20&height=220&text=Welcome!&fontSize=50&fontAlignY=38&desc=hyeii%20Github&descAlignY=55&descAlign=60)
+✨ *Hi, I'm Yoon-Hyemin*  
+🌊 *SSAFY 9기 (2023.01 ~ )*    
 
 
-
-
-🌱 배우고 싶은 것이 많은 초보 개발자 hyeii 입니다  
-🌊 SSAFY 9기 (2023.01 ~ )    
-
-![hyeii's github stats](https://github-readme-stats.vercel.app/api?username=hyeii&theme=tokyonight&show_icons=true)
-
-
------  
-
- ### 🔨 stack  
- 🔰🔰🔰  
- <div>
-  <img src="https://img.shields.io/badge/java-007396?style=flat"/>
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white"> 
-  <img src="https://img.shields.io/badge/spring-6DB33F?style=flat&logo=spring&logoColor=white"> <br/>
-  <img src="https://img.shields.io/badge/vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white"> 
-  <img src="https://img.shields.io/badge/html-E34F26?style=flat&logo=html5&logoColor=white"> 
-  <img src="https://img.shields.io/badge/css-1572B6?style=flat&logo=css3&logoColor=white"> 
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black"> 
+ <details>
+  <summary>
+    <I>Studying...</I>
+  </summary>
+  <div>
+  <br/>
+  <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
+  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">  <br/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
+  <img src="https://img.shields.io/badge/TypeScript-448ed8?style=for-the-badge&logo=typescript&logoColor=white"> 
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
+  <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">  <br/>
+  <img src="https://img.shields.io/badge/tailwind_css-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white">
+  <img src="https://img.shields.io/badge/styled_components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"> <br/> <br/>
+  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <br/> <br/>
+  <img src="https://img.shields.io/badge/Flutter-4ab1ed?style=for-the-badge&logo=flutter&logoColor=white"> 
 </div>
-  
-  
------  
-### 📚 Algorithm  
-𝐩𝐮𝐧𝐜𝐡𝐝𝐫𝐮𝐧𝐤𝐥𝐥𝐨𝐯𝟐 👉 [![solved.ac](https://img.shields.io/badge/solved.ac-98FB98?style=flat)](https://solved.ac/profile/punchdrunkllov2)  
+</details>
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=punchdrunkllov2)](https://solved.ac/punchdrunkllov2)
-  
+
+
+
 
