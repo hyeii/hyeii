@@ -12,8 +12,16 @@
   https://intothe-universe.tistory.com
 </div>
 </details>
-
-<br/>
+<details>
+  <summary>
+    <I>🔭 WEB PORTFOLIO</I>
+  </summary>
+  <div>
+    ...ing
+  <br/>
+  https://hyeii-first-portfolio.vercel.app
+</div>
+</details>
  <details>
   <summary>
     <I>Studying...</I>
