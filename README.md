@@ -14,6 +14,15 @@
 </details>
 <details>
   <summary>
+    <I>🎇 PDF PORTFOLIO</I>
+  </summary>
+  <div>
+    <br/>
+    <a href="https://drive.google.com/file/d/1dPQZq_xKrie9liVfhAAuM97jyUVfDL8r/view?usp=drive_link">PDF 포트폴리오 링크</a>
+</div>
+</details>
+<details>
+  <summary>
     <I>🔭 WEB PORTFOLIO</I>
   </summary>
   <div>
