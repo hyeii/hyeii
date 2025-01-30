@@ -3,22 +3,23 @@
 ✨ *Hi, I'm Yoon-Hyemin*  
 🌆 *FE developer*  
 🌊 *SSAFY 9기 (2023.01 ~ 2023.12)*
-<details>
-  <summary>
-    <I>✏️ TISTORY</I>
-  </summary>
-  <div>
-  <br/>
-  https://intothe-universe.tistory.com
-</div>
-</details>
+<!-- <details> -->
+<!--   <summary> -->
+<!--     <I>✏️ TISTORY</I> -->
+<!--   </summary> -->
+<!--   <div> -->
+<!--   <br/> -->
+<!--   https://intothe-universe.tistory.com -->
+<!-- </div> -->
+<!-- </details> -->
 <details>
   <summary>
     <I>🎇 PDF PORTFOLIO</I>
   </summary>
   <div>
     <br/>
-    <a href="https://drive.google.com/file/d/1Y6N7VH3JUxb2pLXjzHPe7CQLSvb4t959/view?usp=sharing">PDF 포트폴리오 링크</a>
+    공사중... ⚒
+<!--     <a href="https://drive.google.com/file/d/1Y6N7VH3JUxb2pLXjzHPe7CQLSvb4t959/view?usp=sharing">PDF 포트폴리오 링크</a> -->
 </div>
 </details>
 <details>
@@ -26,9 +27,10 @@
     <I>🔭 WEB PORTFOLIO</I>
   </summary>
   <div>
-    ...ing
+    <br/>
+    공사중... ⚒
   <br/>
-  https://hyeii-first-portfolio.vercel.app
+<!--   https://hyeii-first-portfolio.vercel.app -->
 </div>
 </details>
  <details>
